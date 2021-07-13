@@ -1,4 +1,4 @@
-package prac;
+// package prac;
 import java.util.Scanner;
 
 public class SwitchPrac{
