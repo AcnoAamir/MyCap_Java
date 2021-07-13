@@ -45,6 +45,30 @@ public class ABC {
 	}
 }
 /*
+Output
+Enter details of 1st employee <Name,Year of Joining,Salary,Address>
+Robert 1994 1000 64C- WallsStreet 
+Enter details of 2nd employee <Name,Year of Joining,Salary,Address>
+Sam 2000 5000 68D- WallsStreet
+Enter details of 3rd employee <Name,Year of Joining,Salary,Address>
+John 1999 200 26B- WallsStreet
+
+Employee Details - 
+Name - Robert
+Year of Joining 1994
+Address  64C- WallsStreet 
+
+Employee Details - 
+Name - Sam
+Year of Joining 2000
+Address  68D- WallsStreet
+
+Employee Details - 
+Name - John
+Year of Joining 1999
+Address  26B- WallsStreet
+
+Sample Input
 Robert 1994 1000 64C- WallsStreet 
 Sam 2000 5000 68D- WallsStreet
 John 1999 200 26B- WallsStreet
